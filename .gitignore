@@ -1,0 +1,16 @@
+_dat/
+idata/
+post_strat/
+overleaf/
+notebooks/questionnaire_for_github.ipynb
+scripts/microsamples_ni_gltla.py
+scripts/microsamples_scot_gltla.py
+scripts/microsamples_eng_wales_gltla.py
+scripts/questionnaire_basic_transform.py
+scripts/questionnaire_imp.py
+scripts/poststratify_causal.py
+bash_scripts/run_poststrat_causal.sh
+survey_sept_2024.pdf
+QualtricsSurveySoftware.pdf
+*.log  # Ignore all log files
+*.tmp  # Ignore all temporary files
