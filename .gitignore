@@ -12,5 +12,9 @@ scripts/poststratify_causal.py
 bash_scripts/run_poststrat_causal.sh
 survey_sept_2024.pdf
 QualtricsSurveySoftware.pdf
+**/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
 *.log  # Ignore all log files
 *.tmp  # Ignore all temporary files
+
